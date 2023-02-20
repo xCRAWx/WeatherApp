@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">weather App</string>
+
+
+    <string name="bienvenida">Bienvenido a la Aplicación del Clima</string>
+
+    <string name="b_pa">Pronostico Actual</string>
+    <string name="b_lc">Listado de Ciudades</string>
+    <string name="todo">TODO</string>
+
+    <string name="prueba">texto_prueba</string>
+
+</resources>
